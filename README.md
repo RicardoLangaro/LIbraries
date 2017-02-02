@@ -25,3 +25,4 @@ Add "LogObject" define for serial logging/debuging with board specific default s
 
 - Added Abstract Print class to MBED for full compatibility (Can use print, println with uip objects.)
 - Fxing errata 12 by seydamir.
+# UIPEthernet-master-aligned-32-bit
